@@ -8,7 +8,7 @@ If you need to add  a new asset file use need force...
 the command is : 
 
 ```sh
- git add Capstone/* -f
+ git add AR_Furniture/* -f
 ``` 
 if you do not include -f it will ignore the asset file. 
 
