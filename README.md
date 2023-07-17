@@ -1,17 +1,9 @@
 # Sydney AR
 
 ## General: 
-Pull before doing anything.
-
-If you need to add  a new asset file use need force...
-
-the command is : 
-
-```sh
- git add AR_Furniture/* -f
-``` 
-if you do not include -f it will ignore the asset file. 
-
+Some files are too large for the free version of github. The full project is in the zip folder.
+The scripts folder outlines our custom c# scripts.
+The APK is a ready to go android APK
 ## Features
 
  Simple... Asset storage for Sydney's Capsone project, an AR application
