@@ -25,7 +25,7 @@ if you do not include -f it will ignore the asset file.
 - [visual studio community 2019] - For c# script edditing
 
 ### Roadmap
-Roadman for first semester (Second semester added in summer)
+Roadman for first semester
 - [x] Set up initial VC
 - [x] Place Object in 3d space (general)
 - [x] Add lightweight VC laternative
